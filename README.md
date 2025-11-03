@@ -1,4 +1,8 @@
 # LatihanUKLMudahNo2
+Codingan Program
+
+<img width="1480" height="900" alt="COdingan Soal2" src="https://github.com/user-attachments/assets/ce309758-9ab5-41e4-8f36-75ebb2f7e072" />
+
 
 Output Codingan
 
