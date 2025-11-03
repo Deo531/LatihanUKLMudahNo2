@@ -4,8 +4,8 @@ Codingan Program
 <img width="1480" height="900" alt="COdingan Soal2" src="https://github.com/user-attachments/assets/ce309758-9ab5-41e4-8f36-75ebb2f7e072" />
 
 Saya pakai scanner untuk menginputkan nominal yang ingin di cari belangan genap ganjilnya.
-saya pakai if lalu menggunakan operator modulus untuk menghitung sisa
-jika bilangan yang kita inputkan dibagi 2 = 0 maka bilangan tersebut genap
+saya pakai if lalu menggunakan operator modulus untuk mencari sisa pembagian.
+Jika bilangan yang kita inputkan dibagi 2 = 0 maka bilangan tersebut genap
 
 
 Output Codingan
